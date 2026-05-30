@@ -1,0 +1,2 @@
+# Automated-Detection-of-Thoracic-Pathologies-from-Chest-X-ray-Images
+Created for NPPE 1 of the Introduction to Deep Learning and Gen AI course in the IIT Madras BS Degree, this repository contains a PyTorch solution for thoracic pathology detection using chest X-rays. Built with EfficientNet-B3, it leverages focal loss, data augmentation, and TTA to handle high class imbalance across 20 diseases.
