@@ -8,7 +8,7 @@ This repository contains a PyTorch-based Deep Learning pipeline designed to clas
 
 ## 🔗 Links
 
-* **Kaggle Competition:** [View Competition Layout & Data]([https://www.google.com/search?q=%5Blink%5D](https://www.kaggle.com/competitions/26-t-1-dl-gen-ainppe-1))
+* **Kaggle Competition:** [View Competition Layout & Data](https://www.kaggle.com/competitions/26-t-1-dl-gen-ainppe-1)
 * **My Notebook/Work:** [View Full Implementation on Kaggle](https://www.kaggle.com/code/mimakhdumiiitm/22f3001418-notebook-26t1)
 
 ---
